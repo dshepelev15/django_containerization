@@ -6,3 +6,4 @@ static
 media
 venv/**
 env/**
+pgdata/**
