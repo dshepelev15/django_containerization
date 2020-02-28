@@ -2,4 +2,4 @@ from django.http.response import HttpResponse
 
 
 def index(request):
-    return HttpResponse('Hello, world from python manage.py runserver!')
+    return HttpResponse('Hello, world from python manage.py runserver connected to PostgreSQL database!')
